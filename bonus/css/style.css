@@ -13,3 +13,12 @@
 .box.lightbrown{
   background-color: #FECE9E;
 }
+
+.box i{
+  font-size: 60px;
+  padding-top: 10px;
+}
+
+.box i.white{
+  color: white;
+}
