@@ -10,3 +10,7 @@
 .box-nesting{
   background-color: #00E165; 
 }
+
+.separator{
+  height: 10px;
+}
