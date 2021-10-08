@@ -1,6 +1,9 @@
 .box{
   height: 80px;
   border: 1px solid black;
+  text-align: center;
+  line-height: 80px;
+  font-weight: bold;
 }
 
 .box.brown{
