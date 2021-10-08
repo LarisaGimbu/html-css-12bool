@@ -3,8 +3,8 @@
   min-height: 30px;
   border: 1px solid white;
   text-align: center;
-  line-height: 30px;
   color: white;
+  padding: 10px;
 }
 
 .box-nesting{
